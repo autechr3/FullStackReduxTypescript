@@ -1,0 +1,30 @@
+{
+  "name": "voting-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grunt": "rimraf ./bin && grunt",
+    "test": "mocha ./bin --recursive",
+    "test:watch": "npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-immutable": "^1.6.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.2",
+    "grunt-tslint": "^3.1.1",
+    "mocha": "^2.5.3",
+    "rimraf": "^2.5.4",
+    "tslint": "^3.13.0",
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
+}

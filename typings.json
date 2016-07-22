@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chai": "registry:npm/chai#3.5.0+20160415060238",
+    "immutable": "registry:npm/immutable#3.7.6+20160411060006"
+  },
+  "globalDependencies": {
+    "chai-immutable": "github:ivanz/chai-immutable-typings/dist/chai-immutable.d.ts#d84875ed76f47ab0b70bc8166aecd1d3e870b8c9",
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/ivanz/chai-immutable-typings/d84875ed76f47ab0b70bc8166aecd1d3e870b8c9/dist/chai-immutable.d.ts",
+    "raw": "github:ivanz/chai-immutable-typings/dist/chai-immutable.d.ts#d84875ed76f47ab0b70bc8166aecd1d3e870b8c9",
+    "typings": "https://raw.githubusercontent.com/ivanz/chai-immutable-typings/d84875ed76f47ab0b70bc8166aecd1d3e870b8c9/dist/chai-immutable.d.ts"
+  }
+}
